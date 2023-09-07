@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "chalk": "^5.3.0",
-    "random-hex-color-generator": "^1.0.12",
     "randomcolor": "^0.6.2"
   }
 }
